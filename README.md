@@ -91,7 +91,7 @@ I enjoy building systems that connect perception, generation, and action — fro
 - **Email:** dijiang_dong@sjtu.edu.cn  
 - **Location:** Minhang, Shanghai, China  
 - **University:** Shanghai Jiao Tong University  
-- **School:** School of Electronic Information and Electrical Engineering  
+- **School:** School of Computer Science  
 
 ---
 
